@@ -8,7 +8,7 @@
 vllm==0.28.0            # rollouts in train_grpo_pytorch.py (rollout.backend="vllm"), trl colocate, eval --backend vllm
 torch>=2.8              # whatever vllm resolved; the pinned wheels bundle their own CUDA runtime (no system toolkit needed)
 transformers==5.14.1
-trl==1.13.0             # train_grpo_rlvr.py only
+#trl==1.13.0             # train_grpo_rlvr.py only
 peft==0.20.0
 bitsandbytes==0.50.2    # NF4 training copy (transformers side); not used by vLLM
 datasets==5.0.0
