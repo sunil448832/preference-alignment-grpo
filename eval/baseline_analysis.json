@@ -1,0 +1,4502 @@
+[
+ {
+  "problem_id": "vfm_95654",
+  "source": "olympiads",
+  "cat": "boxed_wrong",
+  "completion_tokens": 707,
+  "gold_tokens": 875,
+  "boxed": "80",
+  "ground_truth": "80\\%"
+ },
+ {
+  "problem_id": "vfm_219045",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 619,
+  "gold_tokens": 764,
+  "boxed": "a = b \\text{ and } c = 0",
+  "ground_truth": "a = b \\quad \\text{and} \\quad c = 0"
+ },
+ {
+  "problem_id": "vfm_546434",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 314,
+  "gold_tokens": 388,
+  "boxed": "20",
+  "ground_truth": "20 \\text{ minutes}"
+ },
+ {
+  "problem_id": "vfm_363302",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 469,
+  "boxed": null,
+  "ground_truth": "14"
+ },
+ {
+  "problem_id": "vfm_28447",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 932,
+  "boxed": null,
+  "ground_truth": "\\frac{2}{n}"
+ },
+ {
+  "problem_id": "vfm_221262",
+  "source": "aops_forum",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 1336,
+  "boxed": null,
+  "ground_truth": "13"
+ },
+ {
+  "problem_id": "vfm_236151",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 682,
+  "gold_tokens": 306,
+  "boxed": "\\dfrac{4}{17}",
+  "ground_truth": "8/29"
+ },
+ {
+  "problem_id": "vfm_694940",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 360,
+  "boxed": null,
+  "ground_truth": "\\textbf{(A)} -\\frac{19683}{512}"
+ },
+ {
+  "problem_id": "vfm_189489",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 650,
+  "boxed": null,
+  "ground_truth": "37"
+ },
+ {
+  "problem_id": "vfm_650994",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 708,
+  "boxed": null,
+  "ground_truth": "2"
+ },
+ {
+  "problem_id": "vfm_93862",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 785,
+  "boxed": null,
+  "ground_truth": "6"
+ },
+ {
+  "problem_id": "vfm_375761",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 443,
+  "boxed": null,
+  "ground_truth": "$(cx + y)^3$"
+ },
+ {
+  "problem_id": "vfm_274894",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 236,
+  "gold_tokens": 564,
+  "boxed": "300",
+  "ground_truth": "300"
+ },
+ {
+  "problem_id": "vfm_383219",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 647,
+  "gold_tokens": 343,
+  "boxed": "C",
+  "ground_truth": "C"
+ },
+ {
+  "problem_id": "vfm_207287",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 728,
+  "boxed": null,
+  "ground_truth": "\\left| e_1 x_1 + e_2 x_2 + \\cdots + e_n x_n \\right| \\leq \\frac{(k-1) \\sqrt{n}}{k^n - 1}"
+ },
+ {
+  "problem_id": "vfm_288558",
+  "source": "aops_forum",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 507,
+  "boxed": null,
+  "ground_truth": "39"
+ },
+ {
+  "problem_id": "vfm_491751",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 919,
+  "boxed": null,
+  "ground_truth": "Civela \\text{ is 15 years old.}"
+ },
+ {
+  "problem_id": "vfm_253816",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 454,
+  "boxed": null,
+  "ground_truth": "1.5 < r < 2"
+ },
+ {
+  "problem_id": "vfm_188312",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 412,
+  "boxed": null,
+  "ground_truth": "\\text{(D)}\\ 819"
+ },
+ {
+  "problem_id": "vfm_21232",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 1590,
+  "gold_tokens": 597,
+  "boxed": "1",
+  "ground_truth": "1"
+ },
+ {
+  "problem_id": "vfm_484130",
+  "source": "olympiads",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1396,
+  "gold_tokens": 1248,
+  "boxed": "\\frac{b^{1/12}}{a^{23/6}}",
+  "ground_truth": "\\frac{1}{\\sqrt[12]{a^2 b}}"
+ },
+ {
+  "problem_id": "vfm_341643",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 838,
+  "gold_tokens": 958,
+  "boxed": "5\\sqrt{5}",
+  "ground_truth": "5 \\sqrt{5}"
+ },
+ {
+  "problem_id": "vfm_677168",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 786,
+  "boxed": null,
+  "ground_truth": "4 + 5 + 6"
+ },
+ {
+  "problem_id": "vfm_413215",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 597,
+  "boxed": null,
+  "ground_truth": "75"
+ },
+ {
+  "problem_id": "vfm_701696",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 629,
+  "boxed": null,
+  "ground_truth": "4"
+ },
+ {
+  "problem_id": "vfm_11639",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 606,
+  "gold_tokens": 768,
+  "boxed": "\\dfrac{5}{6}",
+  "ground_truth": "\\frac{5}{6}"
+ },
+ {
+  "problem_id": "vfm_661921",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 1338,
+  "boxed": null,
+  "ground_truth": "n = 4l \\text{ or } n = 4l-1 \\text{ where } l \\in \\mathbb{N}"
+ },
+ {
+  "problem_id": "vfm_177607",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 443,
+  "boxed": null,
+  "ground_truth": "9 * (C(8,1) + C(8,2) + C(8,3) + C(8,4))"
+ },
+ {
+  "problem_id": "vfm_212113",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 846,
+  "boxed": null,
+  "ground_truth": "\\frac{428}{500}"
+ },
+ {
+  "problem_id": "vfm_111996",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 370,
+  "gold_tokens": 257,
+  "boxed": "10",
+  "ground_truth": "10"
+ },
+ {
+  "problem_id": "vfm_373538",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 716,
+  "boxed": null,
+  "ground_truth": "1 - \\left\\lfloor \\frac{n}{3} \\right\\rfloor"
+ },
+ {
+  "problem_id": "vfm_214965",
+  "source": "olympiads",
+  "cat": "boxed_wrong",
+  "completion_tokens": 160,
+  "gold_tokens": 411,
+  "boxed": "0.7",
+  "ground_truth": "((9 + 5) / (15 + 5)) * 100"
+ },
+ {
+  "problem_id": "vfm_479045",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 674,
+  "boxed": null,
+  "ground_truth": "\\frac{\\pi}{2}"
+ },
+ {
+  "problem_id": "vfm_590482",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 478,
+  "gold_tokens": 948,
+  "boxed": "60^\\circ \\text{ or } 120^\\circ",
+  "ground_truth": "60^\\circ \\text{ or } 120^\\circ"
+ },
+ {
+  "problem_id": "vfm_692231",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1218,
+  "gold_tokens": 449,
+  "boxed": "\\dfrac{238}{3}",
+  "ground_truth": "86"
+ },
+ {
+  "problem_id": "vfm_592180",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 1112,
+  "gold_tokens": 848,
+  "boxed": "\\left( \\dfrac{2}{3},\\ -\\dfrac{8}{3} \\right)",
+  "ground_truth": "p = \\frac{2}{3}, \\ q = -\\frac{8}{3}"
+ },
+ {
+  "problem_id": "vfm_86521",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 889,
+  "gold_tokens": 670,
+  "boxed": "36",
+  "ground_truth": "36 \\ \\text{km}"
+ },
+ {
+  "problem_id": "vfm_305026",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 801,
+  "boxed": null,
+  "ground_truth": "-5"
+ },
+ {
+  "problem_id": "vfm_443908",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 578,
+  "boxed": null,
+  "ground_truth": "\\text{Yes}"
+ },
+ {
+  "problem_id": "vfm_266312",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 619,
+  "boxed": null,
+  "ground_truth": "\\frac{a b \\sin \\alpha}{a + b}"
+ },
+ {
+  "problem_id": "vfm_471584",
+  "source": "synthetic_amc",
+  "cat": "truncated_boxed_wrong",
+  "completion_tokens": 2000,
+  "gold_tokens": 517,
+  "boxed": "\\frac{S_4}{S_1 S_2 S_3}",
+  "ground_truth": "a^{-2}b^{-2}c^{-2}d^{-2}"
+ },
+ {
+  "problem_id": "vfm_173657",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 309,
+  "gold_tokens": 304,
+  "boxed": "16",
+  "ground_truth": "16"
+ },
+ {
+  "problem_id": "vfm_472673",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 725,
+  "boxed": null,
+  "ground_truth": "12"
+ },
+ {
+  "problem_id": "vfm_304847",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 145,
+  "gold_tokens": 203,
+  "boxed": "90",
+  "ground_truth": "90"
+ },
+ {
+  "problem_id": "vfm_355038",
+  "source": "aops_forum",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 1269,
+  "boxed": null,
+  "ground_truth": "4"
+ },
+ {
+  "problem_id": "vfm_244464",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 964,
+  "boxed": null,
+  "ground_truth": "\n(x, y, z) = (-1, -1, -1), \\ (2, 2, 2)\n"
+ },
+ {
+  "problem_id": "vfm_125692",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1942,
+  "gold_tokens": 232,
+  "boxed": "60",
+  "ground_truth": "45"
+ },
+ {
+  "problem_id": "vfm_365767",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 531,
+  "boxed": null,
+  "ground_truth": "20 + 450 + 6750 + 45000"
+ },
+ {
+  "problem_id": "vfm_482115",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 802,
+  "boxed": null,
+  "ground_truth": "2014"
+ },
+ {
+  "problem_id": "vfm_660588",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 817,
+  "boxed": null,
+  "ground_truth": "28"
+ },
+ {
+  "problem_id": "vfm_3683",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 291,
+  "boxed": null,
+  "ground_truth": "A"
+ },
+ {
+  "problem_id": "vfm_498940",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 1006,
+  "gold_tokens": 628,
+  "boxed": "y = -x^2 + 4x - 2",
+  "ground_truth": "y = -x^2 + 4x - 2"
+ },
+ {
+  "problem_id": "vfm_293930",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 334,
+  "boxed": null,
+  "ground_truth": "60^\\circ"
+ },
+ {
+  "problem_id": "vfm_539804",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 292,
+  "gold_tokens": 257,
+  "boxed": "5",
+  "ground_truth": "5"
+ },
+ {
+  "problem_id": "vfm_231011",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 492,
+  "boxed": null,
+  "ground_truth": "2\\sqrt{2}"
+ },
+ {
+  "problem_id": "vfm_313846",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 1022,
+  "boxed": null,
+  "ground_truth": "\\text{No solution}"
+ },
+ {
+  "problem_id": "vfm_622251",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 801,
+  "boxed": null,
+  "ground_truth": "0.8S"
+ },
+ {
+  "problem_id": "vfm_600072",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 255,
+  "gold_tokens": 363,
+  "boxed": "13",
+  "ground_truth": "13"
+ },
+ {
+  "problem_id": "vfm_606652",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 545,
+  "boxed": null,
+  "ground_truth": "f(x) = x"
+ },
+ {
+  "problem_id": "vfm_388860",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1113,
+  "gold_tokens": 592,
+  "boxed": "11",
+  "ground_truth": "10"
+ },
+ {
+  "problem_id": "vfm_184879",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 469,
+  "boxed": null,
+  "ground_truth": "20164"
+ },
+ {
+  "problem_id": "vfm_71728",
+  "source": "olympiads",
+  "cat": "truncated_boxed_wrong",
+  "completion_tokens": 2000,
+  "gold_tokens": 512,
+  "boxed": "\\dfrac{19}{100}",
+  "ground_truth": "0.2"
+ },
+ {
+  "problem_id": "vfm_161067",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 527,
+  "boxed": null,
+  "ground_truth": "C"
+ },
+ {
+  "problem_id": "vfm_509859",
+  "source": "olympiads",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1200,
+  "gold_tokens": 403,
+  "boxed": "\\dfrac{1}{3}",
+  "ground_truth": "\\frac{1}{2} \\times \\text{Area of the larger circle}"
+ },
+ {
+  "problem_id": "vfm_515484",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 865,
+  "gold_tokens": 485,
+  "boxed": "396",
+  "ground_truth": "396"
+ },
+ {
+  "problem_id": "vfm_472014",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 578,
+  "boxed": null,
+  "ground_truth": "\\sqrt{98 - 14\\sqrt{33}}"
+ },
+ {
+  "problem_id": "vfm_699050",
+  "source": "aops_forum",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 743,
+  "boxed": null,
+  "ground_truth": " BD = 3y "
+ },
+ {
+  "problem_id": "vfm_205293",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 778,
+  "gold_tokens": 443,
+  "boxed": "\\dfrac{(k+2)(2k^2 - k + 3)}{2}",
+  "ground_truth": "k^3 + \\frac{3k^2}{2} + \\frac{k}{2} + 2"
+ },
+ {
+  "problem_id": "vfm_39363",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 565,
+  "gold_tokens": 346,
+  "boxed": "(-2, 5)",
+  "ground_truth": "-2 < x < 5"
+ },
+ {
+  "problem_id": "vfm_298313",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1192,
+  "gold_tokens": 440,
+  "boxed": "5",
+  "ground_truth": "k=4"
+ },
+ {
+  "problem_id": "vfm_453257",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 368,
+  "boxed": null,
+  "ground_truth": "B"
+ },
+ {
+  "problem_id": "vfm_298885",
+  "source": "olympiads",
+  "cat": "boxed_wrong",
+  "completion_tokens": 579,
+  "gold_tokens": 485,
+  "boxed": "?",
+  "ground_truth": "5 \\, \\text{meters}"
+ },
+ {
+  "problem_id": "vfm_579809",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 429,
+  "boxed": null,
+  "ground_truth": "64"
+ },
+ {
+  "problem_id": "vfm_28827",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 444,
+  "gold_tokens": 422,
+  "boxed": "9",
+  "ground_truth": "9"
+ },
+ {
+  "problem_id": "vfm_208396",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 547,
+  "boxed": null,
+  "ground_truth": "9 \\text{ trips}"
+ },
+ {
+  "problem_id": "vfm_58753",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 640,
+  "boxed": null,
+  "ground_truth": "\\text{No}"
+ },
+ {
+  "problem_id": "vfm_83838",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 548,
+  "boxed": null,
+  "ground_truth": "7"
+ },
+ {
+  "problem_id": "vfm_217388",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 347,
+  "gold_tokens": 381,
+  "boxed": "3",
+  "ground_truth": "3"
+ },
+ {
+  "problem_id": "vfm_80082",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 499,
+  "boxed": null,
+  "ground_truth": "4.3004"
+ },
+ {
+  "problem_id": "vfm_59943",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 668,
+  "gold_tokens": 717,
+  "boxed": "2",
+  "ground_truth": "2"
+ },
+ {
+  "problem_id": "vfm_252867",
+  "source": "olympiads",
+  "cat": "boxed_wrong",
+  "completion_tokens": 349,
+  "gold_tokens": 230,
+  "boxed": "4",
+  "ground_truth": "D"
+ },
+ {
+  "problem_id": "vfm_437350",
+  "source": "aops_forum",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 1004,
+  "boxed": null,
+  "ground_truth": " \\sqrt{2} "
+ },
+ {
+  "problem_id": "vfm_611305",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 392,
+  "gold_tokens": 477,
+  "boxed": "?",
+  "ground_truth": "3"
+ },
+ {
+  "problem_id": "vfm_86339",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 732,
+  "boxed": null,
+  "ground_truth": "0"
+ },
+ {
+  "problem_id": "vfm_602352",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 838,
+  "boxed": null,
+  "ground_truth": "6k"
+ },
+ {
+  "problem_id": "vfm_128515",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 314,
+  "gold_tokens": 207,
+  "boxed": "-18",
+  "ground_truth": "-18"
+ },
+ {
+  "problem_id": "vfm_551451",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 532,
+  "boxed": null,
+  "ground_truth": "7171"
+ },
+ {
+  "problem_id": "vfm_117632",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 954,
+  "gold_tokens": 609,
+  "boxed": "200",
+  "ground_truth": "200"
+ },
+ {
+  "problem_id": "vfm_207706",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 343,
+  "boxed": null,
+  "ground_truth": "4^{-1/8}"
+ },
+ {
+  "problem_id": "vfm_583079",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 271,
+  "boxed": null,
+  "ground_truth": "\\frac{3}{4}"
+ },
+ {
+  "problem_id": "vfm_102959",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 629,
+  "boxed": null,
+  "ground_truth": "A"
+ },
+ {
+  "problem_id": "vfm_657723",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 851,
+  "boxed": null,
+  "ground_truth": "B"
+ },
+ {
+  "problem_id": "vfm_490004",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 598,
+  "boxed": null,
+  "ground_truth": "5"
+ },
+ {
+  "problem_id": "vfm_426476",
+  "source": "olympiads",
+  "cat": "boxed_wrong",
+  "completion_tokens": 516,
+  "gold_tokens": 537,
+  "boxed": "\\text{The given formula is incorrect and does not hold in general.}",
+  "ground_truth": "m^2 n^2 = a^2 c^2 + b^2 d^2 - 2 abcd \\cos(A + C)"
+ },
+ {
+  "problem_id": "vfm_727540",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 780,
+  "gold_tokens": 642,
+  "boxed": "No",
+  "ground_truth": "k=2"
+ },
+ {
+  "problem_id": "vfm_238031",
+  "source": "aops_forum",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 970,
+  "boxed": null,
+  "ground_truth": "8"
+ },
+ {
+  "problem_id": "vfm_204782",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 361,
+  "gold_tokens": 493,
+  "boxed": "1",
+  "ground_truth": "1"
+ },
+ {
+  "problem_id": "vfm_424416",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 489,
+  "gold_tokens": 1114,
+  "boxed": "8\\sqrt{3}",
+  "ground_truth": "8 \\sqrt{3}"
+ },
+ {
+  "problem_id": "vfm_656661",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 1086,
+  "gold_tokens": 650,
+  "boxed": "990",
+  "ground_truth": "990"
+ },
+ {
+  "problem_id": "vfm_618107",
+  "source": "aops_forum",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 852,
+  "boxed": null,
+  "ground_truth": "2068"
+ },
+ {
+  "problem_id": "vfm_70151",
+  "source": "aops_forum",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 947,
+  "boxed": null,
+  "ground_truth": " p < 2n "
+ },
+ {
+  "problem_id": "vfm_456346",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 666,
+  "boxed": null,
+  "ground_truth": "\\frac{1}{2}"
+ },
+ {
+  "problem_id": "vfm_30405",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 731,
+  "gold_tokens": 367,
+  "boxed": "1",
+  "ground_truth": "1 - (3/4)^20"
+ },
+ {
+  "problem_id": "vfm_284017",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 523,
+  "boxed": null,
+  "ground_truth": "1.94"
+ },
+ {
+  "problem_id": "vfm_524491",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 873,
+  "gold_tokens": 532,
+  "boxed": "83",
+  "ground_truth": "64 + 27 - 8"
+ },
+ {
+  "problem_id": "vfm_552259",
+  "source": "amc_aime",
+  "cat": "boxed_wrong",
+  "completion_tokens": 616,
+  "gold_tokens": 528,
+  "boxed": "C",
+  "ground_truth": "\\textbf{(C)}\\ 2^{16}"
+ },
+ {
+  "problem_id": "vfm_426319",
+  "source": "amc_aime",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 473,
+  "boxed": null,
+  "ground_truth": "\\text{D}"
+ },
+ {
+  "problem_id": "vfm_469628",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 642,
+  "boxed": null,
+  "ground_truth": "\\frac{d}{2}"
+ },
+ {
+  "problem_id": "vfm_296648",
+  "source": "amc_aime",
+  "cat": "boxed_wrong",
+  "completion_tokens": 601,
+  "gold_tokens": 331,
+  "boxed": "E",
+  "ground_truth": "\\textbf{(E)} \\: 11{,}110"
+ },
+ {
+  "problem_id": "vfm_606960",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 460,
+  "boxed": null,
+  "ground_truth": "D"
+ },
+ {
+  "problem_id": "vfm_257426",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 463,
+  "gold_tokens": 349,
+  "boxed": "16840",
+  "ground_truth": "16840"
+ },
+ {
+  "problem_id": "vfm_213730",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 610,
+  "boxed": null,
+  "ground_truth": "7"
+ },
+ {
+  "problem_id": "vfm_406777",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 654,
+  "boxed": null,
+  "ground_truth": "\\text{It is impossible to reach the final desired configuration from the initial configuration.}"
+ },
+ {
+  "problem_id": "vfm_418704",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 1480,
+  "gold_tokens": 450,
+  "boxed": "C",
+  "ground_truth": "C"
+ },
+ {
+  "problem_id": "vfm_87995",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 959,
+  "boxed": null,
+  "ground_truth": "27 - 12\\sqrt{2}"
+ },
+ {
+  "problem_id": "vfm_171420",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 843,
+  "boxed": null,
+  "ground_truth": "47"
+ },
+ {
+  "problem_id": "vfm_100452",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 1024,
+  "boxed": null,
+  "ground_truth": "\\frac{2}{3}"
+ },
+ {
+  "problem_id": "vfm_304204",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 838,
+  "gold_tokens": 651,
+  "boxed": "-\\dfrac{9}{2}",
+  "ground_truth": "3, -6"
+ },
+ {
+  "problem_id": "vfm_326683",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 930,
+  "boxed": null,
+  "ground_truth": "\\frac{\\sqrt{5} - 1}{2}"
+ },
+ {
+  "problem_id": "vfm_319378",
+  "source": "olympiads",
+  "cat": "boxed_wrong",
+  "completion_tokens": 825,
+  "gold_tokens": 1137,
+  "boxed": "\\dfrac{\\pi}{6}",
+  "ground_truth": "30^\\circ"
+ },
+ {
+  "problem_id": "vfm_747381",
+  "source": "olympiads",
+  "cat": "truncated_boxed_wrong",
+  "completion_tokens": 2000,
+  "gold_tokens": 741,
+  "boxed": "-4x + 4",
+  "ground_truth": "u(x) = -\\frac{1}{3} x + \\frac{1}{3}, \\quad v(x) = \\frac{2}{3} x^{2} - \\frac{2}{3} x - 1"
+ },
+ {
+  "problem_id": "vfm_181951",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 484,
+  "boxed": null,
+  "ground_truth": "\\frac{9}{16}"
+ },
+ {
+  "problem_id": "vfm_401821",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 1132,
+  "boxed": null,
+  "ground_truth": "168"
+ },
+ {
+  "problem_id": "vfm_439901",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 468,
+  "boxed": null,
+  "ground_truth": "C"
+ },
+ {
+  "problem_id": "vfm_348668",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 514,
+  "boxed": null,
+  "ground_truth": "\\text{No}"
+ },
+ {
+  "problem_id": "vfm_613104",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 400,
+  "boxed": null,
+  "ground_truth": "75"
+ },
+ {
+  "problem_id": "vfm_660471",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 894,
+  "gold_tokens": 659,
+  "boxed": "9",
+  "ground_truth": "\\textbf{(B) } 9"
+ },
+ {
+  "problem_id": "vfm_518509",
+  "source": "olympiads",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1012,
+  "gold_tokens": 527,
+  "boxed": "3",
+  "ground_truth": "\\text{April}"
+ },
+ {
+  "problem_id": "vfm_609329",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1136,
+  "gold_tokens": 506,
+  "boxed": "5",
+  "ground_truth": "6"
+ },
+ {
+  "problem_id": "vfm_82378",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 956,
+  "boxed": null,
+  "ground_truth": "\\text{The sum of the divisors of a number of the form } 3k+2 \\text{ is always a multiple of 3.}"
+ },
+ {
+  "problem_id": "vfm_454382",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 371,
+  "boxed": null,
+  "ground_truth": "40%"
+ },
+ {
+  "problem_id": "vfm_210189",
+  "source": "olympiads",
+  "cat": "boxed_wrong",
+  "completion_tokens": 156,
+  "gold_tokens": 565,
+  "boxed": "(3, 2)",
+  "ground_truth": "\n\\begin{cases}\nx + y = 5 \\\\\n2x + y = 7\n\\end{cases}\n"
+ },
+ {
+  "problem_id": "vfm_361753",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1345,
+  "gold_tokens": 332,
+  "boxed": "2056",
+  "ground_truth": "800 * 1.3^4 * 0.9"
+ },
+ {
+  "problem_id": "vfm_101758",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 495,
+  "gold_tokens": 276,
+  "boxed": "B",
+  "ground_truth": "B"
+ },
+ {
+  "problem_id": "vfm_353105",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 623,
+  "boxed": null,
+  "ground_truth": "C"
+ },
+ {
+  "problem_id": "vfm_379536",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 447,
+  "boxed": null,
+  "ground_truth": "11 \\text{ trips}"
+ },
+ {
+  "problem_id": "vfm_617927",
+  "source": "olympiads",
+  "cat": "truncated_boxed_wrong",
+  "completion_tokens": 2000,
+  "gold_tokens": 964,
+  "boxed": "<answer>",
+  "ground_truth": "m(x - x_0)^2 + n(y - y_0)^2 = mx_0^2 + n y_0^2"
+ },
+ {
+  "problem_id": "vfm_494780",
+  "source": "aops_forum",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 725,
+  "boxed": null,
+  "ground_truth": " (1, 1, 2) "
+ },
+ {
+  "problem_id": "vfm_43178",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 745,
+  "boxed": null,
+  "ground_truth": "\\text{Th\u00e9or\u00e8me des Restes Chinois}"
+ },
+ {
+  "problem_id": "vfm_623533",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 229,
+  "gold_tokens": 272,
+  "boxed": "0.625",
+  "ground_truth": "50 * 0.075 - 50 * 0.0625"
+ },
+ {
+  "problem_id": "vfm_677725",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 1185,
+  "boxed": null,
+  "ground_truth": "\\frac{686}{327} \\pi"
+ },
+ {
+  "problem_id": "vfm_643938",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 932,
+  "boxed": null,
+  "ground_truth": "80"
+ },
+ {
+  "problem_id": "vfm_157463",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1573,
+  "gold_tokens": 502,
+  "boxed": "43",
+  "ground_truth": "37"
+ },
+ {
+  "problem_id": "vfm_215083",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 189,
+  "gold_tokens": 285,
+  "boxed": "8",
+  "ground_truth": "8"
+ },
+ {
+  "problem_id": "vfm_506862",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 381,
+  "gold_tokens": 339,
+  "boxed": "1728000000",
+  "ground_truth": "4 * (500 * 12) * (600 * 12)"
+ },
+ {
+  "problem_id": "vfm_45805",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 384,
+  "boxed": null,
+  "ground_truth": "1012.5"
+ },
+ {
+  "problem_id": "vfm_151772",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 468,
+  "gold_tokens": 330,
+  "boxed": "\\dfrac{3}{4}",
+  "ground_truth": "3/4"
+ },
+ {
+  "problem_id": "vfm_69141",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 807,
+  "boxed": null,
+  "ground_truth": "(\\sqrt{2 - \\sqrt{3}}, 1)"
+ },
+ {
+  "problem_id": "vfm_194984",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 647,
+  "boxed": null,
+  "ground_truth": "Vasya"
+ },
+ {
+  "problem_id": "vfm_15916",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 887,
+  "boxed": null,
+  "ground_truth": "D"
+ },
+ {
+  "problem_id": "vfm_357681",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 628,
+  "boxed": null,
+  "ground_truth": "3"
+ },
+ {
+  "problem_id": "vfm_8375",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 1214,
+  "boxed": null,
+  "ground_truth": "16"
+ },
+ {
+  "problem_id": "vfm_345351",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 1241,
+  "boxed": null,
+  "ground_truth": "y = \\frac{4(b^2 + h^2) - x^2}{16h}"
+ },
+ {
+  "problem_id": "vfm_702783",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 1324,
+  "boxed": null,
+  "ground_truth": "\\left[\\frac{6 \\sqrt{165}}{55}, \\frac{6 \\sqrt{13}}{13}\\right]"
+ },
+ {
+  "problem_id": "vfm_118611",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 1188,
+  "gold_tokens": 588,
+  "boxed": "111",
+  "ground_truth": "111"
+ },
+ {
+  "problem_id": "vfm_341930",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 503,
+  "boxed": null,
+  "ground_truth": "1"
+ },
+ {
+  "problem_id": "vfm_31862",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 454,
+  "boxed": null,
+  "ground_truth": "3"
+ },
+ {
+  "problem_id": "vfm_288946",
+  "source": "olympiads",
+  "cat": "boxed_wrong",
+  "completion_tokens": 691,
+  "gold_tokens": 748,
+  "boxed": "7",
+  "ground_truth": "C"
+ },
+ {
+  "problem_id": "vfm_438186",
+  "source": "olympiads",
+  "cat": "truncated_boxed_wrong",
+  "completion_tokens": 2000,
+  "gold_tokens": 986,
+  "boxed": "\\dfrac{3R - h}{2R - h}",
+  "ground_truth": "h = \\frac{R}{3 - n}"
+ },
+ {
+  "problem_id": "vfm_220226",
+  "source": "synthetic_amc",
+  "cat": "truncated_boxed_wrong",
+  "completion_tokens": 2000,
+  "gold_tokens": 330,
+  "boxed": "0.0025 > 0.002",
+  "ground_truth": "\\textbf{(B)}\\ \\text{Relative error of the second measurement is greater, absolute error increase is $.45''$}"
+ },
+ {
+  "problem_id": "vfm_187746",
+  "source": "olympiads",
+  "cat": "boxed_wrong",
+  "completion_tokens": 633,
+  "gold_tokens": 328,
+  "boxed": "A",
+  "ground_truth": "D"
+ },
+ {
+  "problem_id": "vfm_651310",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 926,
+  "boxed": null,
+  "ground_truth": "8"
+ },
+ {
+  "problem_id": "vfm_565301",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 1236,
+  "boxed": null,
+  "ground_truth": "\\frac{2}{5}"
+ },
+ {
+  "problem_id": "vfm_408735",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 1152,
+  "gold_tokens": 480,
+  "boxed": "C",
+  "ground_truth": "\\text{C}"
+ },
+ {
+  "problem_id": "vfm_87077",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 769,
+  "gold_tokens": 395,
+  "boxed": "76",
+  "ground_truth": "76"
+ },
+ {
+  "problem_id": "vfm_275746",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 632,
+  "boxed": null,
+  "ground_truth": "B"
+ },
+ {
+  "problem_id": "vfm_527189",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 257,
+  "boxed": null,
+  "ground_truth": "D"
+ },
+ {
+  "problem_id": "vfm_54651",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 543,
+  "gold_tokens": 242,
+  "boxed": "17",
+  "ground_truth": "25 - (24 - 16)"
+ },
+ {
+  "problem_id": "vfm_53868",
+  "source": "olympiads",
+  "cat": "truncated_boxed_wrong",
+  "completion_tokens": 2000,
+  "gold_tokens": 637,
+  "boxed": "<answer>",
+  "ground_truth": "P_{n} = F_{n} - \\sum_{\\substack{d \\mid n \\\\ d \\neq n}} P_{d}"
+ },
+ {
+  "problem_id": "vfm_531721",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1685,
+  "gold_tokens": 298,
+  "boxed": "E",
+  "ground_truth": "C"
+ },
+ {
+  "problem_id": "vfm_356576",
+  "source": "aops_forum",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 725,
+  "boxed": null,
+  "ground_truth": " 1099 "
+ },
+ {
+  "problem_id": "vfm_285402",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 819,
+  "gold_tokens": 288,
+  "boxed": "5:30\\ \\text{P.M.}",
+  "ground_truth": "5:30 P.M."
+ },
+ {
+  "problem_id": "vfm_83961",
+  "source": "aops_forum",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 857,
+  "boxed": null,
+  "ground_truth": "3^{2005}"
+ },
+ {
+  "problem_id": "vfm_30654",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 314,
+  "gold_tokens": 384,
+  "boxed": "C",
+  "ground_truth": "- **(C)** \\( \\frac{12n - 300}{n - 15} \\)"
+ },
+ {
+  "problem_id": "vfm_23069",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 647,
+  "boxed": null,
+  "ground_truth": "22"
+ },
+ {
+  "problem_id": "vfm_19088",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 636,
+  "boxed": null,
+  "ground_truth": "100 = 777 \\div 7 - 77 \\div 7 \\text{ or } 100 = 7 \\times 7 + 7 \\times 7 + 7 \\div 7 + 7 \\div 7"
+ },
+ {
+  "problem_id": "vfm_464429",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 876,
+  "boxed": null,
+  "ground_truth": "3789"
+ },
+ {
+  "problem_id": "vfm_228291",
+  "source": "aops_forum",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 887,
+  "boxed": null,
+  "ground_truth": "16"
+ },
+ {
+  "problem_id": "vfm_214216",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 732,
+  "gold_tokens": 414,
+  "boxed": "\\dfrac{5}{9}",
+  "ground_truth": "5/9"
+ },
+ {
+  "problem_id": "vfm_87303",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 479,
+  "boxed": null,
+  "ground_truth": "\\frac{b(90000 + 600t + t^2)}{31680t}"
+ },
+ {
+  "problem_id": "vfm_320974",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 835,
+  "boxed": null,
+  "ground_truth": "0 \\text{, } -1 \\text{, } -2"
+ },
+ {
+  "problem_id": "vfm_544731",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 153,
+  "gold_tokens": 384,
+  "boxed": "?",
+  "ground_truth": "17%"
+ },
+ {
+  "problem_id": "vfm_457563",
+  "source": "aops_forum",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 818,
+  "boxed": null,
+  "ground_truth": "24"
+ },
+ {
+  "problem_id": "vfm_161753",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 767,
+  "boxed": null,
+  "ground_truth": "1"
+ },
+ {
+  "problem_id": "vfm_106572",
+  "source": "amc_aime",
+  "cat": "truncated_boxed_wrong",
+  "completion_tokens": 2000,
+  "gold_tokens": 636,
+  "boxed": "A",
+  "ground_truth": "\\textbf{(A)}\\ n(\\sqrt{2} + 1)"
+ },
+ {
+  "problem_id": "vfm_537445",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 504,
+  "gold_tokens": 374,
+  "boxed": "18",
+  "ground_truth": "B"
+ },
+ {
+  "problem_id": "vfm_233190",
+  "source": "amc_aime",
+  "cat": "boxed_wrong",
+  "completion_tokens": 273,
+  "gold_tokens": 355,
+  "boxed": "\\frac{1}{4}",
+  "ground_truth": "\\textbf{(D)}\\ \\frac{1}{4}"
+ },
+ {
+  "problem_id": "vfm_349233",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 450,
+  "boxed": null,
+  "ground_truth": "0 + 3"
+ },
+ {
+  "problem_id": "vfm_409474",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 848,
+  "boxed": null,
+  "ground_truth": "197"
+ },
+ {
+  "problem_id": "vfm_363813",
+  "source": "olympiads",
+  "cat": "truncated_boxed_wrong",
+  "completion_tokens": 2000,
+  "gold_tokens": 587,
+  "boxed": "0",
+  "ground_truth": "\\text{No}"
+ },
+ {
+  "problem_id": "vfm_300491",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 649,
+  "boxed": null,
+  "ground_truth": "4"
+ },
+ {
+  "problem_id": "vfm_35215",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 576,
+  "gold_tokens": 360,
+  "boxed": "\\dfrac{19}{55}",
+  "ground_truth": "\\frac{19}{35}"
+ },
+ {
+  "problem_id": "vfm_769061",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 935,
+  "boxed": null,
+  "ground_truth": "(8, 8, 8, 0)"
+ },
+ {
+  "problem_id": "vfm_303316",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 2000,
+  "gold_tokens": 559,
+  "boxed": "2^{24}",
+  "ground_truth": "16777216"
+ },
+ {
+  "problem_id": "vfm_587311",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 1411,
+  "gold_tokens": 778,
+  "boxed": "x^4 - 16x^2 + 51 = 0",
+  "ground_truth": "x^4 - 16 x^2 + 51 = 0"
+ },
+ {
+  "problem_id": "vfm_701511",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 73,
+  "gold_tokens": 293,
+  "boxed": "NA",
+  "ground_truth": "\\frac{650}{6}"
+ },
+ {
+  "problem_id": "vfm_261059",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 625,
+  "boxed": null,
+  "ground_truth": "72"
+ },
+ {
+  "problem_id": "vfm_509464",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 354,
+  "boxed": null,
+  "ground_truth": "E"
+ },
+ {
+  "problem_id": "vfm_38129",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 676,
+  "boxed": null,
+  "ground_truth": "4"
+ },
+ {
+  "problem_id": "vfm_677259",
+  "source": "amc_aime",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 427,
+  "boxed": null,
+  "ground_truth": "\\textbf{(B)}\\ 23"
+ },
+ {
+  "problem_id": "vfm_757631",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 869,
+  "boxed": null,
+  "ground_truth": "\\text{Yes}"
+ },
+ {
+  "problem_id": "vfm_43390",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 660,
+  "gold_tokens": 491,
+  "boxed": "\\dfrac{1}{2}",
+  "ground_truth": "1/2"
+ },
+ {
+  "problem_id": "vfm_655267",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 965,
+  "gold_tokens": 500,
+  "boxed": "D",
+  "ground_truth": "D"
+ },
+ {
+  "problem_id": "vfm_385672",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 700,
+  "boxed": null,
+  "ground_truth": "3705"
+ },
+ {
+  "problem_id": "vfm_480773",
+  "source": "amc_aime",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1289,
+  "gold_tokens": 565,
+  "boxed": "D",
+  "ground_truth": "\\textbf{(D)}\\ b"
+ },
+ {
+  "problem_id": "vfm_711174",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 1159,
+  "boxed": null,
+  "ground_truth": "B"
+ },
+ {
+  "problem_id": "vfm_374988",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 542,
+  "boxed": null,
+  "ground_truth": "396"
+ },
+ {
+  "problem_id": "vfm_720860",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 270,
+  "gold_tokens": 584,
+  "boxed": "0",
+  "ground_truth": "3"
+ },
+ {
+  "problem_id": "vfm_255066",
+  "source": "olympiads",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1371,
+  "gold_tokens": 310,
+  "boxed": "7",
+  "ground_truth": "29"
+ },
+ {
+  "problem_id": "vfm_623911",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 1577,
+  "boxed": null,
+  "ground_truth": " \\text{b) } K_a : K_b : K_c = 1:1: \\frac{\\sqrt{2}}{3} "
+ },
+ {
+  "problem_id": "vfm_236739",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 761,
+  "boxed": null,
+  "ground_truth": "\\sqrt{2n} + 1"
+ },
+ {
+  "problem_id": "vfm_130582",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 1323,
+  "gold_tokens": 581,
+  "boxed": "\\dfrac{113}{648}",
+  "ground_truth": "\\frac{113}{648}"
+ },
+ {
+  "problem_id": "vfm_576753",
+  "source": "olympiads",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1251,
+  "gold_tokens": 900,
+  "boxed": "\\arctan(x) = \\sum_{n=0}^{\\infty} \\frac{(-1)^n x^{2n+1}}{2n+1}, \\quad |x| \\leq 1",
+  "ground_truth": "x - \\frac{x^3}{3} + \\frac{x^5}{5} - \\frac{x^7}{7} + (-1)^n \\frac{x^{2n+1}}{2n+1} + \\cdots \\text{ for } |x| < 1 "
+ },
+ {
+  "problem_id": "vfm_276050",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 1405,
+  "boxed": null,
+  "ground_truth": " \\begin{cases} \nS_{\\max} = \\frac{1}{2} a \\sqrt{1-a^{2}} & \\text{if } 0 < a \\leq \\frac{1}{3} \\\\\nS_{\\max} = a \\sqrt{a - a^2} & \\text{if } \\frac{1}{3} < a < \\frac{1}{2} \n\\end{cases} "
+ },
+ {
+  "problem_id": "vfm_73509",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 1832,
+  "gold_tokens": 615,
+  "boxed": "19, 46, 82",
+  "ground_truth": "19, 46, \\text{ and } 82"
+ },
+ {
+  "problem_id": "vfm_151440",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 583,
+  "gold_tokens": 795,
+  "boxed": "31",
+  "ground_truth": "31"
+ },
+ {
+  "problem_id": "vfm_551666",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 398,
+  "boxed": null,
+  "ground_truth": "15"
+ },
+ {
+  "problem_id": "vfm_376458",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 984,
+  "boxed": null,
+  "ground_truth": "n+1"
+ },
+ {
+  "problem_id": "vfm_401549",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1418,
+  "gold_tokens": 391,
+  "boxed": "\\dfrac{4\\sqrt{10}}{3}",
+  "ground_truth": "\\frac{4}{3}"
+ },
+ {
+  "problem_id": "vfm_491814",
+  "source": "synthetic_amc",
+  "cat": "truncated_boxed_wrong",
+  "completion_tokens": 2000,
+  "gold_tokens": 400,
+  "boxed": "24",
+  "ground_truth": "C"
+ },
+ {
+  "problem_id": "vfm_122180",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 1948,
+  "gold_tokens": 697,
+  "boxed": "5",
+  "ground_truth": "5"
+ },
+ {
+  "problem_id": "vfm_706128",
+  "source": "aops_forum",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 414,
+  "boxed": null,
+  "ground_truth": "78"
+ },
+ {
+  "problem_id": "vfm_624598",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 506,
+  "boxed": null,
+  "ground_truth": "\\angle B=90^{\\circ}, \\angle A=45^{\\circ}, \\angle C=45^{\\circ}"
+ },
+ {
+  "problem_id": "vfm_95126",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 938,
+  "gold_tokens": 552,
+  "boxed": "\\dfrac{1}{n+1}",
+  "ground_truth": "1 : (n+1)"
+ },
+ {
+  "problem_id": "vfm_671027",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 360,
+  "boxed": null,
+  "ground_truth": "0"
+ },
+ {
+  "problem_id": "vfm_96431",
+  "source": "olympiads",
+  "cat": "truncated_boxed_wrong",
+  "completion_tokens": 2000,
+  "gold_tokens": 748,
+  "boxed": "<answer>",
+  "ground_truth": "\\left\\{ a_1 = 5^{70} \\cdot 7^{84}, a_2 = 5^{71} \\cdot 7^{83}, a_3 = 5^{72} \\cdot 7^{82}, \\ldots, a_{15} = 5^{84} \\cdot 7^{70} \\right\\}"
+ },
+ {
+  "problem_id": "vfm_298955",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 701,
+  "boxed": null,
+  "ground_truth": "\\frac{2 \\triangle ABC}{a + b + c}"
+ },
+ {
+  "problem_id": "vfm_5453",
+  "source": "amc_aime",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 846,
+  "boxed": null,
+  "ground_truth": "6\\sqrt{21}"
+ },
+ {
+  "problem_id": "vfm_359233",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 526,
+  "boxed": null,
+  "ground_truth": "C) 200"
+ },
+ {
+  "problem_id": "vfm_151137",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1712,
+  "gold_tokens": 334,
+  "boxed": "50",
+  "ground_truth": "90"
+ },
+ {
+  "problem_id": "vfm_18475",
+  "source": "aops_forum",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 698,
+  "boxed": null,
+  "ground_truth": "25"
+ },
+ {
+  "problem_id": "vfm_545938",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 588,
+  "gold_tokens": 409,
+  "boxed": "\\dfrac{25}{63}",
+  "ground_truth": "\\frac{25}{63}"
+ },
+ {
+  "problem_id": "vfm_549271",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 365,
+  "gold_tokens": 357,
+  "boxed": "3663",
+  "ground_truth": "3663"
+ },
+ {
+  "problem_id": "vfm_226315",
+  "source": "aops_forum",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 680,
+  "boxed": null,
+  "ground_truth": "5000"
+ },
+ {
+  "problem_id": "vfm_37576",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 603,
+  "boxed": null,
+  "ground_truth": "14"
+ },
+ {
+  "problem_id": "vfm_396175",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 297,
+  "boxed": null,
+  "ground_truth": "\\frac{7}{6}\\pi"
+ },
+ {
+  "problem_id": "vfm_619595",
+  "source": "aops_forum",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 1395,
+  "boxed": null,
+  "ground_truth": " (0, 1), (1, 0), \\left( \\frac{-1 + \\sqrt{5}}{2}, \\frac{-1 + \\sqrt{5}}{2} \\right), \\left( \\frac{-1 - \\sqrt{5}}{2}, \\frac{-1 - \\sqrt{5}}{2} \\right) "
+ },
+ {
+  "problem_id": "vfm_734143",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 279,
+  "gold_tokens": 244,
+  "boxed": "1",
+  "ground_truth": "1"
+ },
+ {
+  "problem_id": "vfm_479373",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 736,
+  "boxed": null,
+  "ground_truth": "f(x) = x"
+ },
+ {
+  "problem_id": "vfm_200823",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 1430,
+  "gold_tokens": 507,
+  "boxed": "12",
+  "ground_truth": "12"
+ },
+ {
+  "problem_id": "vfm_182039",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 880,
+  "boxed": null,
+  "ground_truth": "m = 0 \\text{ and } n = 50"
+ },
+ {
+  "problem_id": "vfm_289300",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 1009,
+  "gold_tokens": 509,
+  "boxed": "\\dfrac{2}{21}",
+  "ground_truth": "\\frac{2}{21}"
+ },
+ {
+  "problem_id": "vfm_325096",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 537,
+  "gold_tokens": 495,
+  "boxed": "27",
+  "ground_truth": "27 \\ \\text{cm}"
+ },
+ {
+  "problem_id": "vfm_756630",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 542,
+  "boxed": null,
+  "ground_truth": "\\text{Nothing is left for the dog}"
+ },
+ {
+  "problem_id": "vfm_5529",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 761,
+  "boxed": null,
+  "ground_truth": "40 \\text{ cm and 44 cm}"
+ },
+ {
+  "problem_id": "vfm_359207",
+  "source": "olympiads",
+  "cat": "boxed_wrong",
+  "completion_tokens": 355,
+  "gold_tokens": 390,
+  "boxed": "2",
+  "ground_truth": "10/3"
+ },
+ {
+  "problem_id": "vfm_91157",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 1058,
+  "boxed": null,
+  "ground_truth": "5 \\text{ nebo } 2"
+ },
+ {
+  "problem_id": "vfm_330952",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 1039,
+  "gold_tokens": 445,
+  "boxed": "-75x_3",
+  "ground_truth": "-75x_3"
+ },
+ {
+  "problem_id": "vfm_308733",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 2000,
+  "gold_tokens": 368,
+  "boxed": "\\dfrac{\\binom{8}{4}}{256}",
+  "ground_truth": "\\frac{35}{128}"
+ },
+ {
+  "problem_id": "vfm_325928",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 357,
+  "gold_tokens": 413,
+  "boxed": "\\dfrac{5}{3}",
+  "ground_truth": "5/3"
+ },
+ {
+  "problem_id": "vfm_202175",
+  "source": "amc_aime",
+  "cat": "correct",
+  "completion_tokens": 1116,
+  "gold_tokens": 554,
+  "boxed": "114",
+  "ground_truth": "114"
+ },
+ {
+  "problem_id": "vfm_469629",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 386,
+  "gold_tokens": 228,
+  "boxed": "0",
+  "ground_truth": "0"
+ },
+ {
+  "problem_id": "vfm_323328",
+  "source": "olympiads",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1162,
+  "gold_tokens": 653,
+  "boxed": "7",
+  "ground_truth": "B"
+ },
+ {
+  "problem_id": "vfm_364737",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 437,
+  "gold_tokens": 389,
+  "boxed": "0",
+  "ground_truth": "0"
+ },
+ {
+  "problem_id": "vfm_302378",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 769,
+  "boxed": null,
+  "ground_truth": "12"
+ },
+ {
+  "problem_id": "vfm_406935",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 656,
+  "boxed": null,
+  "ground_truth": "6\\pi"
+ },
+ {
+  "problem_id": "vfm_256185",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 502,
+  "boxed": null,
+  "ground_truth": "71"
+ },
+ {
+  "problem_id": "vfm_69884",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 543,
+  "boxed": null,
+  "ground_truth": "7"
+ },
+ {
+  "problem_id": "vfm_681955",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 843,
+  "boxed": null,
+  "ground_truth": "5.187"
+ },
+ {
+  "problem_id": "vfm_527364",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 386,
+  "gold_tokens": 541,
+  "boxed": "0.1359",
+  "ground_truth": "0.1359"
+ },
+ {
+  "problem_id": "vfm_658908",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 261,
+  "boxed": null,
+  "ground_truth": "38^2"
+ },
+ {
+  "problem_id": "vfm_286666",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 515,
+  "boxed": null,
+  "ground_truth": "\\frac{8}{9}"
+ },
+ {
+  "problem_id": "vfm_250698",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 431,
+  "boxed": null,
+  "ground_truth": "\\frac{13}{90}"
+ },
+ {
+  "problem_id": "vfm_76517",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 414,
+  "boxed": null,
+  "ground_truth": "4080"
+ },
+ {
+  "problem_id": "vfm_562336",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 502,
+  "gold_tokens": 472,
+  "boxed": "45^\\circ",
+  "ground_truth": "45^\\circ"
+ },
+ {
+  "problem_id": "vfm_41268",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 185,
+  "boxed": null,
+  "ground_truth": "10"
+ },
+ {
+  "problem_id": "vfm_197643",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 474,
+  "boxed": null,
+  "ground_truth": "4 + 84 + 135 + 60"
+ },
+ {
+  "problem_id": "vfm_747387",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 709,
+  "gold_tokens": 707,
+  "boxed": "\\sqrt{41}",
+  "ground_truth": "\\sqrt{41}"
+ },
+ {
+  "problem_id": "vfm_1284",
+  "source": "olympiads",
+  "cat": "truncated_boxed_wrong",
+  "completion_tokens": 2000,
+  "gold_tokens": 1099,
+  "boxed": "\\left\\lfloor \\frac{n^2}{4} \\right\\rfloor",
+  "ground_truth": "V_n = \\left[ \\frac{n(n-2)(2n-5)}{24} \\right]"
+ },
+ {
+  "problem_id": "vfm_340536",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 919,
+  "boxed": null,
+  "ground_truth": "-\\frac{1}{2^{80}} \\cdot \\binom{80}{29}"
+ },
+ {
+  "problem_id": "vfm_468638",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 467,
+  "boxed": null,
+  "ground_truth": "0"
+ },
+ {
+  "problem_id": "vfm_621103",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 869,
+  "boxed": null,
+  "ground_truth": "60^{\\circ}, 80^{\\circ}, 40^{\\circ}"
+ },
+ {
+  "problem_id": "vfm_372490",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 1181,
+  "boxed": null,
+  "ground_truth": "0.458"
+ },
+ {
+  "problem_id": "vfm_442386",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 846,
+  "boxed": null,
+  "ground_truth": "166 \\, \\text{and} \\, 830"
+ },
+ {
+  "problem_id": "vfm_448191",
+  "source": "amc_aime",
+  "cat": "boxed_wrong",
+  "completion_tokens": 362,
+  "gold_tokens": 344,
+  "boxed": "13",
+  "ground_truth": "\\textbf{(A)}\\ 13"
+ },
+ {
+  "problem_id": "vfm_684738",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 898,
+  "boxed": null,
+  "ground_truth": "\\frac{b}{a} < \\frac{1}{\\sqrt{2}}"
+ },
+ {
+  "problem_id": "vfm_412219",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 457,
+  "boxed": null,
+  "ground_truth": "B"
+ },
+ {
+  "problem_id": "vfm_266246",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 633,
+  "gold_tokens": 409,
+  "boxed": "100\\pi",
+  "ground_truth": "100*pi"
+ },
+ {
+  "problem_id": "vfm_298617",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 335,
+  "gold_tokens": 384,
+  "boxed": "C",
+  "ground_truth": "C"
+ },
+ {
+  "problem_id": "vfm_196113",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 1365,
+  "gold_tokens": 550,
+  "boxed": "C",
+  "ground_truth": "C"
+ },
+ {
+  "problem_id": "vfm_595633",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 1959,
+  "gold_tokens": 622,
+  "boxed": "13",
+  "ground_truth": "13"
+ },
+ {
+  "problem_id": "vfm_730729",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 840,
+  "boxed": null,
+  "ground_truth": "\\text{The sides are } \\frac{a + 2\\sqrt{2}b}{2}, \\frac{a - 2\\sqrt{2}b}{2} \\text{ and the area is } \\frac{a^2 - 8b^2}{4}."
+ },
+ {
+  "problem_id": "vfm_67301",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 223,
+  "gold_tokens": 399,
+  "boxed": "6",
+  "ground_truth": "6"
+ },
+ {
+  "problem_id": "vfm_142179",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 1193,
+  "gold_tokens": 492,
+  "boxed": "64",
+  "ground_truth": "64"
+ },
+ {
+  "problem_id": "vfm_397037",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 434,
+  "gold_tokens": 379,
+  "boxed": "\\log_4{\\frac{7}{3}}",
+  "ground_truth": "A"
+ },
+ {
+  "problem_id": "vfm_373004",
+  "source": "synthetic_amc",
+  "cat": "truncated_boxed_wrong",
+  "completion_tokens": 2000,
+  "gold_tokens": 545,
+  "boxed": "30",
+  "ground_truth": "90"
+ },
+ {
+  "problem_id": "vfm_261670",
+  "source": "aops_forum",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 675,
+  "boxed": null,
+  "ground_truth": " P_n = P_{n-1} + 2P_{n-2} "
+ },
+ {
+  "problem_id": "vfm_619128",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 483,
+  "boxed": null,
+  "ground_truth": "541234"
+ },
+ {
+  "problem_id": "vfm_53605",
+  "source": "olympiads",
+  "cat": "boxed_wrong",
+  "completion_tokens": 124,
+  "gold_tokens": 199,
+  "boxed": "9",
+  "ground_truth": "D"
+ },
+ {
+  "problem_id": "vfm_161353",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 415,
+  "boxed": null,
+  "ground_truth": "\\frac{2}{25}"
+ },
+ {
+  "problem_id": "vfm_425923",
+  "source": "aops_forum",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 474,
+  "boxed": null,
+  "ground_truth": "10,000"
+ },
+ {
+  "problem_id": "vfm_385287",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 1063,
+  "boxed": null,
+  "ground_truth": "e^{\\frac{26}{3}}"
+ },
+ {
+  "problem_id": "vfm_364614",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 1031,
+  "boxed": null,
+  "ground_truth": "0.0367"
+ },
+ {
+  "problem_id": "vfm_248505",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1701,
+  "gold_tokens": 550,
+  "boxed": "\\dfrac{3}{4}",
+  "ground_truth": "\\frac{1}{2}"
+ },
+ {
+  "problem_id": "vfm_775505",
+  "source": "olympiads",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1693,
+  "gold_tokens": 587,
+  "boxed": "1",
+  "ground_truth": "\\text{The first player}"
+ },
+ {
+  "problem_id": "vfm_639959",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 561,
+  "gold_tokens": 506,
+  "boxed": "3",
+  "ground_truth": "3"
+ },
+ {
+  "problem_id": "vfm_325325",
+  "source": "olympiads",
+  "cat": "truncated_boxed_wrong",
+  "completion_tokens": 2000,
+  "gold_tokens": 920,
+  "boxed": "2 + x + x^2 + \\frac{1}{2}x^3 + \\frac{1}{4}x^4",
+  "ground_truth": "y = 2 + x + x^2 + \\frac{x^3}{2} + \\frac{x^4}{3}"
+ },
+ {
+  "problem_id": "vfm_634752",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 305,
+  "gold_tokens": 341,
+  "boxed": "50.4",
+  "ground_truth": "50.4"
+ },
+ {
+  "problem_id": "vfm_154830",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 725,
+  "boxed": null,
+  "ground_truth": "**B)** \\(2\\sqrt{5}\\)"
+ },
+ {
+  "problem_id": "vfm_167284",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 876,
+  "gold_tokens": 423,
+  "boxed": "21",
+  "ground_truth": "21"
+ },
+ {
+  "problem_id": "vfm_517734",
+  "source": "olympiads",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1691,
+  "gold_tokens": 1161,
+  "boxed": "3003",
+  "ground_truth": "1502"
+ },
+ {
+  "problem_id": "vfm_709296",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 1018,
+  "gold_tokens": 763,
+  "boxed": "\\frac{\\tan(n\\alpha) - \\tan(\\alpha)}{\\tan \\alpha} - (n - 1)",
+  "ground_truth": "\\frac{\\tan n\\alpha}{\\tan \\alpha} - n"
+ },
+ {
+  "problem_id": "vfm_60253",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 927,
+  "gold_tokens": 497,
+  "boxed": "A",
+  "ground_truth": "\\textbf{(A)}\\ 42.63\\%"
+ },
+ {
+  "problem_id": "vfm_165354",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 1385,
+  "gold_tokens": 238,
+  "boxed": "\\dfrac{1}{3}",
+  "ground_truth": "\\frac {1}{3}"
+ },
+ {
+  "problem_id": "vfm_513083",
+  "source": "olympiads",
+  "cat": "truncated_boxed_wrong",
+  "completion_tokens": 2000,
+  "gold_tokens": 1092,
+  "boxed": "(x^2 + 2x - 1)^2",
+  "ground_truth": "4p^4"
+ },
+ {
+  "problem_id": "vfm_775670",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 512,
+  "gold_tokens": 340,
+  "boxed": "140",
+  "ground_truth": "140"
+ },
+ {
+  "problem_id": "vfm_456039",
+  "source": "aops_forum",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 477,
+  "boxed": null,
+  "ground_truth": " \\frac{BD}{DC} = 1 "
+ },
+ {
+  "problem_id": "vfm_136166",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 356,
+  "gold_tokens": 276,
+  "boxed": "\\dfrac{1}{2}",
+  "ground_truth": "1/2"
+ },
+ {
+  "problem_id": "vfm_170857",
+  "source": "aops_forum",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 987,
+  "boxed": null,
+  "ground_truth": "(23, 13, 3)"
+ },
+ {
+  "problem_id": "vfm_164824",
+  "source": "olympiads",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1307,
+  "gold_tokens": 379,
+  "boxed": "80",
+  "ground_truth": "38"
+ },
+ {
+  "problem_id": "vfm_488694",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 893,
+  "boxed": null,
+  "ground_truth": "\\{(1,1,9), (2,2,7), (3,3,5), (4,4,3), (5,5,1)\\}"
+ },
+ {
+  "problem_id": "vfm_617562",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 675,
+  "boxed": null,
+  "ground_truth": "6"
+ },
+ {
+  "problem_id": "vfm_4697",
+  "source": "olympiads",
+  "cat": "boxed_wrong",
+  "completion_tokens": 562,
+  "gold_tokens": 760,
+  "boxed": "(0,6), (2,-2), (4,1), (3,3)",
+  "ground_truth": "(4, 1) \\quad \\text{and} \\quad (3, 3)"
+ },
+ {
+  "problem_id": "vfm_401587",
+  "source": "olympiads",
+  "cat": "truncated_boxed_wrong",
+  "completion_tokens": 2000,
+  "gold_tokens": 618,
+  "boxed": "N_k",
+  "ground_truth": "N_k = 2 \\left( \\left[ \\log_{\\frac{2}{k}}(2) \\right] + 1 \\right)"
+ },
+ {
+  "problem_id": "vfm_632700",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 745,
+  "boxed": null,
+  "ground_truth": "5 + \\sqrt{3}"
+ },
+ {
+  "problem_id": "vfm_762935",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 837,
+  "boxed": null,
+  "ground_truth": "3"
+ },
+ {
+  "problem_id": "vfm_68587",
+  "source": "aops_forum",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 885,
+  "boxed": null,
+  "ground_truth": "20"
+ },
+ {
+  "problem_id": "vfm_325667",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 1600,
+  "boxed": null,
+  "ground_truth": "100"
+ },
+ {
+  "problem_id": "vfm_673560",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 825,
+  "boxed": null,
+  "ground_truth": "2"
+ },
+ {
+  "problem_id": "vfm_51024",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 534,
+  "gold_tokens": 279,
+  "boxed": "5",
+  "ground_truth": "-4.00"
+ },
+ {
+  "problem_id": "vfm_167726",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 827,
+  "boxed": null,
+  "ground_truth": "4"
+ },
+ {
+  "problem_id": "vfm_347736",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 326,
+  "boxed": null,
+  "ground_truth": "B"
+ },
+ {
+  "problem_id": "vfm_26324",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1385,
+  "gold_tokens": 587,
+  "boxed": "\\dfrac{\\sqrt{2}}{3}",
+  "ground_truth": "\\frac{2\\sqrt{2}}{3}"
+ },
+ {
+  "problem_id": "vfm_15618",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 1154,
+  "boxed": null,
+  "ground_truth": "-3, -1"
+ },
+ {
+  "problem_id": "vfm_145217",
+  "source": "amc_aime",
+  "cat": "boxed_wrong",
+  "completion_tokens": 259,
+  "gold_tokens": 608,
+  "boxed": "32",
+  "ground_truth": "\\text{(B)}\\ 32"
+ },
+ {
+  "problem_id": "vfm_339997",
+  "source": "olympiads",
+  "cat": "truncated_boxed_wrong",
+  "completion_tokens": 2000,
+  "gold_tokens": 1068,
+  "boxed": "<answer>",
+  "ground_truth": "\\{ (9, 8, 4), (-3, -2, 2), (9, 4, 8), (-3, 2, -2) \\}"
+ },
+ {
+  "problem_id": "vfm_743273",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 1269,
+  "gold_tokens": 580,
+  "boxed": "177",
+  "ground_truth": "177"
+ },
+ {
+  "problem_id": "vfm_607924",
+  "source": "amc_aime",
+  "cat": "correct",
+  "completion_tokens": 1338,
+  "gold_tokens": 636,
+  "boxed": "96",
+  "ground_truth": "96"
+ },
+ {
+  "problem_id": "vfm_32734",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 79,
+  "gold_tokens": 408,
+  "boxed": "?",
+  "ground_truth": "24%"
+ },
+ {
+  "problem_id": "vfm_184146",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 757,
+  "boxed": null,
+  "ground_truth": "x > \\frac{1}{\\sqrt{a}} \\text{ or } \\sqrt{a} < x < 1"
+ },
+ {
+  "problem_id": "vfm_242061",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 413,
+  "gold_tokens": 377,
+  "boxed": "C",
+  "ground_truth": "\\textbf{(C)}\\ b^8"
+ },
+ {
+  "problem_id": "vfm_524711",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 563,
+  "boxed": null,
+  "ground_truth": "n \\text{ can be any natural number}"
+ },
+ {
+  "problem_id": "vfm_144753",
+  "source": "aops_forum",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 693,
+  "boxed": null,
+  "ground_truth": "2^{k - n}"
+ },
+ {
+  "problem_id": "vfm_273636",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1178,
+  "gold_tokens": 704,
+  "boxed": "511",
+  "ground_truth": "1535"
+ },
+ {
+  "problem_id": "vfm_454188",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 490,
+  "gold_tokens": 346,
+  "boxed": "n(n+4)",
+  "ground_truth": "n(n+4)"
+ },
+ {
+  "problem_id": "vfm_326287",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 430,
+  "boxed": null,
+  "ground_truth": "2*sqrt(55)"
+ },
+ {
+  "problem_id": "vfm_326395",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 1710,
+  "gold_tokens": 630,
+  "boxed": "(5,2) \\text{ and } (1,6)",
+  "ground_truth": "(5, 2) \\text{ or } (1, 6)"
+ },
+ {
+  "problem_id": "vfm_565505",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 772,
+  "boxed": null,
+  "ground_truth": "\\frac{a \\sqrt{3}}{6}"
+ },
+ {
+  "problem_id": "vfm_229168",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 664,
+  "boxed": null,
+  "ground_truth": "432"
+ },
+ {
+  "problem_id": "vfm_311742",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 350,
+  "gold_tokens": 349,
+  "boxed": "\\dfrac{1}{8}",
+  "ground_truth": "\\frac{1}{8}"
+ },
+ {
+  "problem_id": "vfm_763362",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 1021,
+  "boxed": null,
+  "ground_truth": "30^\\circ < \\alpha < 45^\\circ"
+ },
+ {
+  "problem_id": "vfm_340694",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 1021,
+  "boxed": null,
+  "ground_truth": "a = 5, b = 9, c = 4"
+ },
+ {
+  "problem_id": "vfm_479425",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 459,
+  "boxed": null,
+  "ground_truth": "E"
+ },
+ {
+  "problem_id": "vfm_301347",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 216,
+  "boxed": null,
+  "ground_truth": "4"
+ },
+ {
+  "problem_id": "vfm_194058",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 500,
+  "boxed": null,
+  "ground_truth": "2"
+ },
+ {
+  "problem_id": "vfm_586610",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 465,
+  "boxed": null,
+  "ground_truth": "29"
+ },
+ {
+  "problem_id": "vfm_12044",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 1087,
+  "gold_tokens": 534,
+  "boxed": "3 \\ln 3",
+  "ground_truth": "3 \\ln 3"
+ },
+ {
+  "problem_id": "vfm_448765",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1206,
+  "gold_tokens": 506,
+  "boxed": "6",
+  "ground_truth": "7"
+ },
+ {
+  "problem_id": "vfm_647136",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 798,
+  "boxed": null,
+  "ground_truth": "-0.76"
+ },
+ {
+  "problem_id": "vfm_223345",
+  "source": "aops_forum",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 758,
+  "boxed": null,
+  "ground_truth": " \\{123, 132, 213, 231, 312, 321\\} "
+ },
+ {
+  "problem_id": "vfm_99585",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 442,
+  "boxed": null,
+  "ground_truth": "25"
+ },
+ {
+  "problem_id": "vfm_221559",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 526,
+  "boxed": null,
+  "ground_truth": "B"
+ },
+ {
+  "problem_id": "vfm_458650",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 2000,
+  "gold_tokens": 934,
+  "boxed": "1",
+  "ground_truth": "1"
+ },
+ {
+  "problem_id": "vfm_501760",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 330,
+  "gold_tokens": 394,
+  "boxed": "91",
+  "ground_truth": "91"
+ },
+ {
+  "problem_id": "vfm_60487",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 875,
+  "boxed": null,
+  "ground_truth": "6"
+ },
+ {
+  "problem_id": "vfm_400123",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 403,
+  "boxed": null,
+  "ground_truth": "B"
+ },
+ {
+  "problem_id": "vfm_296322",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 364,
+  "boxed": null,
+  "ground_truth": "\\frac{\\sqrt{3}}{2}"
+ },
+ {
+  "problem_id": "vfm_136637",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 774,
+  "boxed": null,
+  "ground_truth": "B"
+ },
+ {
+  "problem_id": "vfm_104109",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 1831,
+  "gold_tokens": 521,
+  "boxed": "14",
+  "ground_truth": "14"
+ },
+ {
+  "problem_id": "vfm_108722",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 2000,
+  "gold_tokens": 568,
+  "boxed": "\\dfrac{3}{11}",
+  "ground_truth": "\\frac{3}{11}"
+ },
+ {
+  "problem_id": "vfm_58649",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 198,
+  "gold_tokens": 354,
+  "boxed": "C",
+  "ground_truth": "\\text{C}"
+ },
+ {
+  "problem_id": "vfm_551800",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 416,
+  "gold_tokens": 329,
+  "boxed": "4",
+  "ground_truth": "4"
+ },
+ {
+  "problem_id": "vfm_482024",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 109,
+  "gold_tokens": 273,
+  "boxed": "\\dfrac{1}{5}",
+  "ground_truth": "\\frac{1}{5}"
+ },
+ {
+  "problem_id": "vfm_433605",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 515,
+  "boxed": null,
+  "ground_truth": "25"
+ },
+ {
+  "problem_id": "vfm_132813",
+  "source": "olympiads",
+  "cat": "truncated_boxed_wrong",
+  "completion_tokens": 2000,
+  "gold_tokens": 912,
+  "boxed": "<answer>",
+  "ground_truth": "9 \\text{th grader, 9 points}"
+ },
+ {
+  "problem_id": "vfm_402285",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 600,
+  "gold_tokens": 274,
+  "boxed": "\\sqrt{2}",
+  "ground_truth": "\\sqrt{2}"
+ },
+ {
+  "problem_id": "vfm_195947",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 485,
+  "boxed": null,
+  "ground_truth": "50"
+ },
+ {
+  "problem_id": "vfm_418212",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 1357,
+  "gold_tokens": 442,
+  "boxed": "176",
+  "ground_truth": "176"
+ },
+ {
+  "problem_id": "vfm_631734",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 1181,
+  "boxed": null,
+  "ground_truth": "(A / (\\pi \\sqrt{5}))^{1/3}"
+ },
+ {
+  "problem_id": "vfm_478204",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1770,
+  "gold_tokens": 331,
+  "boxed": "12",
+  "ground_truth": "6"
+ },
+ {
+  "problem_id": "vfm_524784",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 486,
+  "boxed": null,
+  "ground_truth": "85.5 \\, \\text{kg}"
+ },
+ {
+  "problem_id": "vfm_421457",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 255,
+  "gold_tokens": 395,
+  "boxed": "204",
+  "ground_truth": "204"
+ },
+ {
+  "problem_id": "vfm_660662",
+  "source": "olympiads",
+  "cat": "boxed_wrong",
+  "completion_tokens": 936,
+  "gold_tokens": 545,
+  "boxed": "24, 18, 28",
+  "ground_truth": "\\text{Andrey ate 24 candies, Boris ate 18 candies, and Denis ate 28 candies.}"
+ },
+ {
+  "problem_id": "vfm_460660",
+  "source": "aops_forum",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 542,
+  "boxed": null,
+  "ground_truth": " f(x, y) = px + qy \\quad \\text{where} \\quad p + q = 1 "
+ },
+ {
+  "problem_id": "vfm_18124",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 419,
+  "gold_tokens": 266,
+  "boxed": "2750",
+  "ground_truth": "2615"
+ },
+ {
+  "problem_id": "vfm_451332",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 322,
+  "gold_tokens": 415,
+  "boxed": "\\dfrac{17}{2}",
+  "ground_truth": "\\frac{17}{2}"
+ },
+ {
+  "problem_id": "vfm_65007",
+  "source": "aops_forum",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 806,
+  "boxed": null,
+  "ground_truth": "1936"
+ },
+ {
+  "problem_id": "vfm_553604",
+  "source": "amc_aime",
+  "cat": "boxed_wrong",
+  "completion_tokens": 288,
+  "gold_tokens": 438,
+  "boxed": "40",
+  "ground_truth": "40\\%"
+ },
+ {
+  "problem_id": "vfm_425484",
+  "source": "olympiads",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1768,
+  "gold_tokens": 606,
+  "boxed": "\\text{composite}",
+  "ground_truth": "a^2 + b^2 \\text{ is a composite number.}"
+ },
+ {
+  "problem_id": "vfm_671844",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 1401,
+  "gold_tokens": 979,
+  "boxed": "12704",
+  "ground_truth": "12704"
+ },
+ {
+  "problem_id": "vfm_757772",
+  "source": "aops_forum",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 241,
+  "boxed": null,
+  "ground_truth": " 512 "
+ },
+ {
+  "problem_id": "vfm_681707",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1262,
+  "gold_tokens": 296,
+  "boxed": "56",
+  "ground_truth": "57"
+ },
+ {
+  "problem_id": "vfm_66426",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 252,
+  "gold_tokens": 215,
+  "boxed": "161",
+  "ground_truth": "161"
+ },
+ {
+  "problem_id": "vfm_8847",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 447,
+  "boxed": null,
+  "ground_truth": "\\frac{1+\\sqrt{5}}{2}"
+ },
+ {
+  "problem_id": "vfm_145660",
+  "source": "olympiads",
+  "cat": "truncated_boxed_wrong",
+  "completion_tokens": 2000,
+  "gold_tokens": 998,
+  "boxed": "1735",
+  "ground_truth": "720"
+ },
+ {
+  "problem_id": "vfm_144766",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 325,
+  "boxed": null,
+  "ground_truth": "C"
+ },
+ {
+  "problem_id": "vfm_682319",
+  "source": "olympiads",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1199,
+  "gold_tokens": 231,
+  "boxed": "1",
+  "ground_truth": "5^{1009} \\sin(2018 \\arctan(2))"
+ },
+ {
+  "problem_id": "vfm_378364",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 1262,
+  "boxed": null,
+  "ground_truth": "f(n) = n^2"
+ },
+ {
+  "problem_id": "vfm_72764",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 349,
+  "gold_tokens": 332,
+  "boxed": "C",
+  "ground_truth": "C"
+ },
+ {
+  "problem_id": "vfm_430324",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1336,
+  "gold_tokens": 384,
+  "boxed": "January\\ 5",
+  "ground_truth": "January 5, 11 PM"
+ },
+ {
+  "problem_id": "vfm_409082",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 2000,
+  "gold_tokens": 1108,
+  "boxed": "-8",
+  "ground_truth": "-8"
+ },
+ {
+  "problem_id": "vfm_144833",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 1052,
+  "gold_tokens": 730,
+  "boxed": "0.012",
+  "ground_truth": "0.012"
+ },
+ {
+  "problem_id": "vfm_5730",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 446,
+  "boxed": null,
+  "ground_truth": "2.5"
+ },
+ {
+  "problem_id": "vfm_773588",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 496,
+  "gold_tokens": 304,
+  "boxed": "17",
+  "ground_truth": "17"
+ },
+ {
+  "problem_id": "vfm_731646",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 800,
+  "gold_tokens": 427,
+  "boxed": "6412500",
+  "ground_truth": "7545000"
+ },
+ {
+  "problem_id": "vfm_688041",
+  "source": "amc_aime",
+  "cat": "boxed_wrong",
+  "completion_tokens": 800,
+  "gold_tokens": 541,
+  "boxed": "E",
+  "ground_truth": "\\textbf{(E)}\\ \\frac{x^2}{2}+\\frac{1}{2x^2}"
+ },
+ {
+  "problem_id": "vfm_29609",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 475,
+  "boxed": null,
+  "ground_truth": "B"
+ },
+ {
+  "problem_id": "vfm_206540",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 1136,
+  "boxed": null,
+  "ground_truth": "41 : 79"
+ },
+ {
+  "problem_id": "vfm_78593",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 1118,
+  "gold_tokens": 656,
+  "boxed": "6",
+  "ground_truth": "6"
+ },
+ {
+  "problem_id": "vfm_188902",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 595,
+  "boxed": null,
+  "ground_truth": "3"
+ },
+ {
+  "problem_id": "vfm_8301",
+  "source": "aops_forum",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 677,
+  "boxed": null,
+  "ground_truth": "10^{10}"
+ },
+ {
+  "problem_id": "vfm_262002",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 709,
+  "gold_tokens": 487,
+  "boxed": "a_n = k + l - n",
+  "ground_truth": "a_n = k + l - n"
+ },
+ {
+  "problem_id": "vfm_17216",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 552,
+  "boxed": null,
+  "ground_truth": "75"
+ },
+ {
+  "problem_id": "vfm_316226",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 825,
+  "boxed": null,
+  "ground_truth": "\\arcsin(0.2)"
+ },
+ {
+  "problem_id": "vfm_196858",
+  "source": "amc_aime",
+  "cat": "boxed_wrong",
+  "completion_tokens": 465,
+  "gold_tokens": 375,
+  "boxed": "D",
+  "ground_truth": "\\mathrm{(D)}\\ \\text{4:30}\\ {\\small\\text{PM}}"
+ },
+ {
+  "problem_id": "vfm_325355",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 706,
+  "boxed": null,
+  "ground_truth": "\\text{Completed}"
+ },
+ {
+  "problem_id": "vfm_401924",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 255,
+  "gold_tokens": 375,
+  "boxed": "1",
+  "ground_truth": "1"
+ },
+ {
+  "problem_id": "vfm_423005",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 1317,
+  "gold_tokens": 628,
+  "boxed": "\\dfrac{6}{11}",
+  "ground_truth": "\\frac{6}{11}"
+ },
+ {
+  "problem_id": "vfm_185101",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1636,
+  "gold_tokens": 342,
+  "boxed": "204",
+  "ground_truth": "480 - 192"
+ },
+ {
+  "problem_id": "vfm_200163",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 654,
+  "boxed": null,
+  "ground_truth": "9"
+ },
+ {
+  "problem_id": "vfm_583860",
+  "source": "olympiads",
+  "cat": "boxed_wrong",
+  "completion_tokens": 237,
+  "gold_tokens": 256,
+  "boxed": "9",
+  "ground_truth": "36"
+ },
+ {
+  "problem_id": "vfm_270813",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 607,
+  "boxed": null,
+  "ground_truth": "1"
+ },
+ {
+  "problem_id": "vfm_713006",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 833,
+  "boxed": null,
+  "ground_truth": "3322111"
+ },
+ {
+  "problem_id": "vfm_3032",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 640,
+  "boxed": null,
+  "ground_truth": "2"
+ },
+ {
+  "problem_id": "vfm_364579",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 982,
+  "boxed": null,
+  "ground_truth": "P(x) = x^n"
+ },
+ {
+  "problem_id": "vfm_37648",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1314,
+  "gold_tokens": 407,
+  "boxed": "285",
+  "ground_truth": "969"
+ },
+ {
+  "problem_id": "vfm_231331",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 1150,
+  "gold_tokens": 350,
+  "boxed": "\\dfrac{35}{128}",
+  "ground_truth": "\\frac{35}{128}"
+ },
+ {
+  "problem_id": "vfm_287424",
+  "source": "aops_forum",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 963,
+  "boxed": null,
+  "ground_truth": "\\text{all odd natural numbers greater than 1}"
+ },
+ {
+  "problem_id": "vfm_112123",
+  "source": "amc_aime",
+  "cat": "boxed_wrong",
+  "completion_tokens": 504,
+  "gold_tokens": 506,
+  "boxed": "E",
+  "ground_truth": "\\textbf{(E)}\\ \\text{three lines}"
+ },
+ {
+  "problem_id": "vfm_234093",
+  "source": "aops_forum",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 630,
+  "boxed": null,
+  "ground_truth": "3"
+ },
+ {
+  "problem_id": "vfm_616490",
+  "source": "aops_forum",
+  "cat": "correct",
+  "completion_tokens": 2000,
+  "gold_tokens": 935,
+  "boxed": "K_0 = \\frac{1}{4\\pi\\epsilon_0} \\frac{ -qQ }{2R }",
+  "ground_truth": " K_0 = \\frac{-qQ}{8\\pi R \\epsilon_0} "
+ },
+ {
+  "problem_id": "vfm_97080",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1330,
+  "gold_tokens": 290,
+  "boxed": "28.22",
+  "ground_truth": "35.70 / 1.265"
+ },
+ {
+  "problem_id": "vfm_366681",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 546,
+  "boxed": null,
+  "ground_truth": "\\text{Therefore, } P \\text{ is a constant polynomial.}"
+ },
+ {
+  "problem_id": "vfm_395185",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 475,
+  "gold_tokens": 606,
+  "boxed": "\\dfrac{1}{2}",
+  "ground_truth": "\\frac{1}{2}"
+ },
+ {
+  "problem_id": "vfm_616529",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 621,
+  "gold_tokens": 278,
+  "boxed": "-524288",
+  "ground_truth": "-2^19"
+ },
+ {
+  "problem_id": "vfm_571838",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 901,
+  "gold_tokens": 367,
+  "boxed": "\\dfrac{2}{9}",
+  "ground_truth": "\\frac{2}{9}"
+ },
+ {
+  "problem_id": "vfm_601634",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1836,
+  "gold_tokens": 427,
+  "boxed": "10\\sqrt{10}",
+  "ground_truth": "31.6%"
+ },
+ {
+  "problem_id": "vfm_82486",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 811,
+  "boxed": null,
+  "ground_truth": "\\text{Yes}"
+ },
+ {
+  "problem_id": "vfm_76983",
+  "source": "aops_forum",
+  "cat": "correct",
+  "completion_tokens": 491,
+  "gold_tokens": 630,
+  "boxed": "35",
+  "ground_truth": "35"
+ },
+ {
+  "problem_id": "vfm_583233",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 806,
+  "boxed": null,
+  "ground_truth": "2:1"
+ },
+ {
+  "problem_id": "vfm_749495",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 1549,
+  "gold_tokens": 778,
+  "boxed": "(4, 1, 2)",
+  "ground_truth": "(x, y, z) = (4, 1, 2)"
+ },
+ {
+  "problem_id": "vfm_273762",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 488,
+  "boxed": null,
+  "ground_truth": "77762"
+ },
+ {
+  "problem_id": "vfm_155395",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 923,
+  "gold_tokens": 445,
+  "boxed": "\\dfrac{47}{11}",
+  "ground_truth": "\\frac{47}{11}"
+ },
+ {
+  "problem_id": "vfm_252757",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 1102,
+  "gold_tokens": 489,
+  "boxed": "\\dfrac{y^2}{64} - \\dfrac{x^2}{36} = 1",
+  "ground_truth": "\\dfrac {y^{2}}{64}- \\dfrac {x^{2}}{36}=1"
+ },
+ {
+  "problem_id": "vfm_409337",
+  "source": "olympiads",
+  "cat": "boxed_wrong",
+  "completion_tokens": 961,
+  "gold_tokens": 562,
+  "boxed": "4375",
+  "ground_truth": "4376"
+ },
+ {
+  "problem_id": "vfm_643032",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 606,
+  "boxed": null,
+  "ground_truth": "1"
+ },
+ {
+  "problem_id": "vfm_705300",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 715,
+  "gold_tokens": 632,
+  "boxed": "\\dfrac{1}{n+1} \\binom{2n}{n}",
+  "ground_truth": "\\frac{1}{n+1} \\binom{2n}{n}"
+ },
+ {
+  "problem_id": "vfm_516655",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 1850,
+  "gold_tokens": 551,
+  "boxed": "24",
+  "ground_truth": "2 * 10 + 5 - 1"
+ },
+ {
+  "problem_id": "vfm_376187",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 312,
+  "boxed": null,
+  "ground_truth": "A, B, and C"
+ },
+ {
+  "problem_id": "vfm_384121",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 866,
+  "boxed": null,
+  "ground_truth": "C"
+ },
+ {
+  "problem_id": "vfm_81987",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 485,
+  "gold_tokens": 236,
+  "boxed": "C",
+  "ground_truth": "B"
+ },
+ {
+  "problem_id": "vfm_649519",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 1522,
+  "gold_tokens": 853,
+  "boxed": "2 \\dfrac{\\varphi(r)}{r} + \\varphi'(r)",
+  "ground_truth": "2 \\frac{\\varphi(r)}{r} + \\varphi'(r)"
+ },
+ {
+  "problem_id": "vfm_404089",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 1274,
+  "boxed": null,
+  "ground_truth": "\\frac{89}{65}"
+ },
+ {
+  "problem_id": "vfm_397048",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 878,
+  "boxed": null,
+  "ground_truth": "125 \\, \\text{cm}^2"
+ },
+ {
+  "problem_id": "vfm_462761",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 480,
+  "gold_tokens": 660,
+  "boxed": "y^2 = -12x",
+  "ground_truth": "y^2 = -12x"
+ },
+ {
+  "problem_id": "vfm_741065",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 567,
+  "boxed": null,
+  "ground_truth": "28"
+ },
+ {
+  "problem_id": "vfm_490365",
+  "source": "olympiads",
+  "cat": "truncated_boxed_wrong",
+  "completion_tokens": 2000,
+  "gold_tokens": 920,
+  "boxed": "<answer>",
+  "ground_truth": "42p"
+ },
+ {
+  "problem_id": "vfm_485309",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 1832,
+  "gold_tokens": 513,
+  "boxed": "\\dfrac{12}{\\pi}",
+  "ground_truth": "\\frac{12}{\\pi}"
+ },
+ {
+  "problem_id": "vfm_212874",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 456,
+  "gold_tokens": 392,
+  "boxed": "1 < x < 5",
+  "ground_truth": "\\textbf{B}"
+ },
+ {
+  "problem_id": "vfm_652772",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 528,
+  "gold_tokens": 846,
+  "boxed": "2.25",
+  "ground_truth": "2.25"
+ },
+ {
+  "problem_id": "vfm_186729",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 718,
+  "boxed": null,
+  "ground_truth": "3"
+ },
+ {
+  "problem_id": "vfm_469884",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 414,
+  "boxed": null,
+  "ground_truth": "1896"
+ },
+ {
+  "problem_id": "vfm_179580",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 660,
+  "gold_tokens": 529,
+  "boxed": "10 \\text{ and } 14",
+  "ground_truth": "10, 14"
+ },
+ {
+  "problem_id": "vfm_515686",
+  "source": "aops_forum",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 1028,
+  "boxed": null,
+  "ground_truth": "671"
+ },
+ {
+  "problem_id": "vfm_679712",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 1945,
+  "gold_tokens": 312,
+  "boxed": "300",
+  "ground_truth": "4 * 5 * 15"
+ },
+ {
+  "problem_id": "vfm_595137",
+  "source": "aops_forum",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 865,
+  "boxed": null,
+  "ground_truth": " n = 6 "
+ },
+ {
+  "problem_id": "vfm_700649",
+  "source": "olympiads",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1251,
+  "gold_tokens": 870,
+  "boxed": "1",
+  "ground_truth": "A"
+ },
+ {
+  "problem_id": "vfm_454936",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 886,
+  "boxed": null,
+  "ground_truth": "(-22, -23, -20)"
+ },
+ {
+  "problem_id": "vfm_768122",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 1340,
+  "boxed": null,
+  "ground_truth": "\n\\begin{cases} \nx_n = \\frac{c-1}{6}(n+1)(n+2) + 1 & \\text{if } c \\equiv 0 \\pmod{3}, \\\\\nx_n = \\frac{c-2}{6}(n+1)(n+2) + n + 1 & \\text{if } c \\equiv 1 \\pmod{3}, \\\\\nx_n = \\frac{c-3}{6}(n+1)(n+2) + \\left\\lfloor \\frac{(n+2)^2}{4} \\right\\rfloor + 1 & \\text{if } c \\equiv 2 \\pmod{3}.\n\\end{cases}\n"
+ },
+ {
+  "problem_id": "vfm_548519",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 869,
+  "boxed": null,
+  "ground_truth": "8"
+ },
+ {
+  "problem_id": "vfm_582513",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 2000,
+  "gold_tokens": 872,
+  "boxed": "-0.0680",
+  "ground_truth": "-0.068"
+ },
+ {
+  "problem_id": "vfm_65507",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 693,
+  "boxed": null,
+  "ground_truth": "a_n < 1 + \\sum_{k=1}^{n} \\frac{1}{k}"
+ },
+ {
+  "problem_id": "vfm_689953",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 538,
+  "boxed": null,
+  "ground_truth": "\\sqrt{5}"
+ },
+ {
+  "problem_id": "vfm_246122",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 593,
+  "boxed": null,
+  "ground_truth": "4"
+ },
+ {
+  "problem_id": "vfm_535673",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 748,
+  "boxed": null,
+  "ground_truth": "\\frac{\\sqrt{3}}{8}"
+ },
+ {
+  "problem_id": "vfm_166641",
+  "source": "synthetic_amc",
+  "cat": "boxed_wrong",
+  "completion_tokens": 411,
+  "gold_tokens": 409,
+  "boxed": "\\text{QM} > \\text{AM} > \\text{GM}",
+  "ground_truth": "\\frac{a^2 + b^2}{2} > \\frac{a+b}{2} > \\sqrt{ab}"
+ },
+ {
+  "problem_id": "vfm_568989",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 666,
+  "boxed": null,
+  "ground_truth": "96"
+ },
+ {
+  "problem_id": "vfm_288211",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 914,
+  "boxed": null,
+  "ground_truth": "39"
+ },
+ {
+  "problem_id": "vfm_30270",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 93,
+  "gold_tokens": 281,
+  "boxed": "75",
+  "ground_truth": "6*5 + 2*10 + 1*25"
+ },
+ {
+  "problem_id": "vfm_106292",
+  "source": "aops_forum",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 870,
+  "boxed": null,
+  "ground_truth": "\\frac{n(2n-5)}{3}"
+ },
+ {
+  "problem_id": "vfm_207154",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 406,
+  "boxed": null,
+  "ground_truth": "\\frac{1}{2}"
+ },
+ {
+  "problem_id": "vfm_390396",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 815,
+  "boxed": null,
+  "ground_truth": "3 \\text{ hours}"
+ },
+ {
+  "problem_id": "vfm_559916",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 993,
+  "boxed": null,
+  "ground_truth": "100 \\text{ km/h}"
+ },
+ {
+  "problem_id": "vfm_681169",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 465,
+  "boxed": null,
+  "ground_truth": "C"
+ },
+ {
+  "problem_id": "vfm_343994",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 590,
+  "boxed": null,
+  "ground_truth": "6"
+ },
+ {
+  "problem_id": "vfm_435263",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 995,
+  "gold_tokens": 633,
+  "boxed": "\\left( \\dfrac{2}{3},\\ -\\dfrac{8}{3} \\right)",
+  "ground_truth": "p = \\frac{2}{3}, q = -\\frac{8}{3}"
+ },
+ {
+  "problem_id": "vfm_147459",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 717,
+  "boxed": null,
+  "ground_truth": "0"
+ },
+ {
+  "problem_id": "vfm_774804",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 135,
+  "gold_tokens": 203,
+  "boxed": "15",
+  "ground_truth": "20 + 5 - 10"
+ },
+ {
+  "problem_id": "vfm_478253",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 585,
+  "boxed": null,
+  "ground_truth": "8"
+ },
+ {
+  "problem_id": "vfm_676117",
+  "source": "amc_aime",
+  "cat": "correct",
+  "completion_tokens": 1398,
+  "gold_tokens": 545,
+  "boxed": "D",
+  "ground_truth": "D"
+ },
+ {
+  "problem_id": "vfm_376002",
+  "source": "olympiads",
+  "cat": "truncated_boxed_wrong",
+  "completion_tokens": 2000,
+  "gold_tokens": 619,
+  "boxed": "\\phi(n)",
+  "ground_truth": "\\text{Even number of irreducible fractions}"
+ },
+ {
+  "problem_id": "vfm_251285",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 2000,
+  "gold_tokens": 337,
+  "boxed": "1",
+  "ground_truth": "1"
+ },
+ {
+  "problem_id": "vfm_395177",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 1054,
+  "gold_tokens": 586,
+  "boxed": "B",
+  "ground_truth": "B"
+ },
+ {
+  "problem_id": "vfm_416378",
+  "source": "olympiads",
+  "cat": "correct",
+  "completion_tokens": 217,
+  "gold_tokens": 456,
+  "boxed": "8",
+  "ground_truth": "8"
+ },
+ {
+  "problem_id": "vfm_489418",
+  "source": "olympiads",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1373,
+  "gold_tokens": 745,
+  "boxed": "60",
+  "ground_truth": "a_{2021} > 60"
+ },
+ {
+  "problem_id": "vfm_232391",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 384,
+  "gold_tokens": 338,
+  "boxed": "15",
+  "ground_truth": "15"
+ },
+ {
+  "problem_id": "vfm_443226",
+  "source": "aops_forum",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1128,
+  "gold_tokens": 475,
+  "boxed": "250",
+  "ground_truth": "133"
+ },
+ {
+  "problem_id": "vfm_162090",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 215,
+  "boxed": null,
+  "ground_truth": "3 * 5"
+ },
+ {
+  "problem_id": "vfm_668135",
+  "source": "synthetic_amc",
+  "cat": "correct",
+  "completion_tokens": 399,
+  "gold_tokens": 438,
+  "boxed": "25",
+  "ground_truth": "((0.60 * 150) - (2.50 * 6)) / 3"
+ },
+ {
+  "problem_id": "vfm_583969",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 691,
+  "boxed": null,
+  "ground_truth": "7"
+ },
+ {
+  "problem_id": "vfm_565699",
+  "source": "olympiads",
+  "cat": "boxed_wrong",
+  "completion_tokens": 764,
+  "gold_tokens": 818,
+  "boxed": "-4",
+  "ground_truth": "-4\\%"
+ },
+ {
+  "problem_id": "vfm_728561",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 556,
+  "boxed": null,
+  "ground_truth": "19"
+ },
+ {
+  "problem_id": "vfm_102929",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 535,
+  "boxed": null,
+  "ground_truth": "\\text{City A}"
+ },
+ {
+  "problem_id": "vfm_678453",
+  "source": "olympiads",
+  "cat": "boxed_wrong",
+  "completion_tokens": 739,
+  "gold_tokens": 1018,
+  "boxed": "10",
+  "ground_truth": "\\frac{1}{10}, 10"
+ },
+ {
+  "problem_id": "vfm_431039",
+  "source": "olympiads",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1827,
+  "gold_tokens": 768,
+  "boxed": "45",
+  "ground_truth": "181440"
+ },
+ {
+  "problem_id": "vfm_506390",
+  "source": "aops_forum",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 1094,
+  "boxed": null,
+  "ground_truth": " n "
+ },
+ {
+  "problem_id": "vfm_618338",
+  "source": "olympiads",
+  "cat": "boxed_wrong",
+  "completion_tokens": 1474,
+  "gold_tokens": 541,
+  "boxed": "\\dfrac{1}{2}",
+  "ground_truth": "\\frac{2}{3} \\text{ of the triangle's area}"
+ },
+ {
+  "problem_id": "vfm_561073",
+  "source": "aops_forum",
+  "cat": "correct",
+  "completion_tokens": 1202,
+  "gold_tokens": 682,
+  "boxed": "13",
+  "ground_truth": "13"
+ },
+ {
+  "problem_id": "vfm_666203",
+  "source": "synthetic_amc",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 661,
+  "boxed": null,
+  "ground_truth": "\\textbf{(C)} \\sqrt{\\frac{-1 + \\sqrt{1 + 100\\pi}}{2\\pi}}"
+ },
+ {
+  "problem_id": "vfm_245999",
+  "source": "olympiads",
+  "cat": "truncated_no_box",
+  "completion_tokens": 2000,
+  "gold_tokens": 521,
+  "boxed": null,
+  "ground_truth": "12"
+ }
+]

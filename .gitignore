@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Training outputs: adapters, optimizer state and RNG state are large and reproducible.
+# The per-step JSONL logs are kept so runs can be analysed with eval/analyze_run.py.
+checkpoints/**
+!checkpoints/
+!checkpoints/*/
+!checkpoints/*/train_log.jsonl
+!checkpoints/*/eval_log.jsonl
+
+# HF / vLLM caches and scratch
+.cache/
+wandb/
+*.log.tmp
+nohup.out
+
+# Editors
+.vscode/
+.idea/
+*.swp
+.DS_Store

@@ -1,0 +1,16 @@
+# Versions this project was written against (2026-09). CPU-verified: everything but vLLM. GPU-verified (ml.g5.2xlarge,
+# SageMaker Distribution image): vllm 0.28.0 eval path, bf16 weights.
+#
+# Install order matters: vLLM pins an exact torch build. Install vllm first and let it choose torch, then the rest
+# (setup_gpu.sh does this). trl 1.13 accepts vllm>=0.19.1,<=0.28.0; 0.28.0 is pinned here because it is the version
+# the configs were tuned for -- it has NO bitsandbytes loader, so the engine serves bf16 weights (config.py
+# rollout.vllm_quant) and trl's automatic bnb-for-vLLM path in train_grpo_rlvr.py is expected to fail on it.
+vllm==0.28.0            # rollouts in train_grpo_pytorch.py (rollout.backend="vllm"), trl colocate, eval --backend vllm
+torch>=2.8              # whatever vllm resolved; the pinned wheels bundle their own CUDA runtime (no system toolkit needed)
+transformers==5.14.1
+trl==1.13.0             # train_grpo_rlvr.py only
+peft==0.20.0
+bitsandbytes==0.50.2    # NF4 training copy (transformers side); not used by vLLM
+datasets==5.0.0
+math-verify             # reward_fn.py verifier
+tqdm                    # eval progress bars (also a transformers dependency)
